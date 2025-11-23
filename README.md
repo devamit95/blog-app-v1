@@ -119,12 +119,7 @@ php artisan migrate
 php artisan db:seed
 ```
 
-### 9. Create Storage Link
-```bash
-php artisan storage:link
-```
-
-### 10. Build Frontend Assets
+### 9. Build Frontend Assets
 ```bash
 # Development
 npm run dev
@@ -133,7 +128,7 @@ npm run dev
 npm run build
 ```
 
-### 11. Start Development Server
+### 10. Start Development Server
 ```bash
 php artisan serve
 ```
