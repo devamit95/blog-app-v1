@@ -62,7 +62,7 @@ A full-featured blog application built with Laravel 9, featuring user authentica
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd blog-app-v1`
+cd blog-app-v1
 ```
 
 ### 2. Install PHP Dependencies
